@@ -1,10 +1,8 @@
 import {
   SEARCH_USERS,
-  SET_ALERT,
   SET_LOADING,
   GET_REPOS,
   GET_USER,
-  REMOVE_ALERT,
   CLEAR_USERS
 } from "../types";
 
